@@ -1,4 +1,4 @@
-[
+{"todos":[
   { "id": 1, "done": false, "text": "Add new todo with form" },
   {
     "id": 2,
@@ -8,3 +8,4 @@
   { "id": 3, "done": false, "text": "Mark done an item" },
   { "id": 4, "done": false, "text": "Remove an item" }
 ]
+}
