@@ -5,7 +5,13 @@
     "done": false,
     "text": "Create Components : TodoForm, TodoList, TodoItem ..."
   },
-  { "id": 3, "done": false, "text": "Mark done an item" },
-  { "id": 4, "done": false, "text": "Remove an item" }
+  { "id": 3, "done": true, "text": "Mark done an item" },
+  { "id": 4, "done": true, "text": "Remove an item" },
+  { "id": 5, "done": true, "text": "Call fake API with fetch to retrieve todos" },
+  { "id": 6, "done": true, "text": "Use hooks (go to /hooks) },
+
+  
+
 ]
+
 }
